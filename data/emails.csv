@@ -25,3 +25,66 @@ text,label
 "The team meeting has been moved to Friday morning.",safe
 "I sent you the updated resume draft for review.",safe
 "Please see the attached internship application checklist.",safe
+"Your account has been suspended. Click here to verify immediately.",phishing
+"Meeting moved to 3 PM. Please review the agenda before then.",safe
+"Reset your password now or your email will be deactivated.",phishing
+"Here are the notes from today's networking class.",safe
+"You have won a gift card. Claim your reward now.",phishing
+"Can you send me the lab assignment when you have time?",safe
+"Urgent: login attempt detected. Confirm your details here.",phishing
+"Let's meet after class to go over the AWS lab.",safe
+"Your bank account needs verification. Submit your credentials now.",phishing
+"Thanks for your help with the Linux assignment.",safe
+"Your account is locked. Click here to unlock now.",phishing
+"Verify your identity immediately to avoid suspension.",phishing
+"Unusual login detected. Confirm your password now.",phishing
+"You have been selected for a prize. Claim it now.",phishing
+"Security alert: update your credentials immediately.",phishing
+"Please review the attached homework before class tomorrow.",safe
+"The professor uploaded this week's notes to the portal.",safe
+"Can you help me study for the networking quiz?",safe
+"Our AWS study group starts at 6 PM tonight.",safe
+"Here is the link to the class project documentation.",safe
+"Final reminder: validate your mailbox credentials now.",phishing
+"Your payment failed. Re-enter your card information here.",phishing
+"Immediate action required to restore account access.",phishing
+"The team meeting has been moved to Friday morning.",safe
+"I sent you the updated resume draft for review.",safe
+"Please see the attached internship application checklist.",safe
+"Your package delivery is on hold. Confirm your address now.",phishing
+"Click the secure link below to avoid account termination.",phishing
+"We need your confirmation to continue processing your request.",phishing
+"Your payroll account requires urgent verification.",phishing
+"Free reward waiting for you. Claim it before expiration.",phishing
+"The class assignment deadline has been extended to Monday.",safe
+"Here is the Zoom link for tonight's study session.",safe
+"Please review the network diagram before tomorrow's lab.",safe
+"I uploaded the latest version of our group project.",safe
+"Can we reschedule our meeting for later this afternoon?",safe
+"Your mailbox is full. Sign in to prevent disruption.",phishing
+"Update your billing information immediately to avoid suspension.",phishing
+"Action required: suspicious login attempt detected.",phishing
+"Congratulations, you were selected for an exclusive offer.",phishing
+"Please submit your timesheet by the end of the day.",safe
+"The instructor posted feedback on your submission.",safe
+"I attached the notes from our cloud security lecture.",safe
+"Let's review the firewall configuration after class.",safe
+"Can you send me the GitHub repository link?",safe
+"Your account has been compromised. Verify ownership now.",phishing
+"Failure to respond will result in permanent account closure.",phishing
+"Confirm your login credentials to keep your account active.",phishing
+"You have received a tax refund. Submit your banking details.",phishing
+"Our team presentation starts at 10 AM in room 204.",safe
+"I pushed the latest code changes to the main branch.",safe
+"Please let me know if you can join the lab meeting.",safe
+"The updated class syllabus is now available online.",safe
+"I sent the AWS notes to your school email.",safe
+"Verify your account now to avoid service interruption.",phishing
+"Your subscription payment was declined. Update card details.",phishing
+"Secure your account immediately by confirming your password.",phishing
+"You are eligible for a limited-time reward. Redeem today.",phishing
+"Please read chapters 3 and 4 before next week's quiz.",safe
+"Here are the screenshots from the vulnerability scan.",safe
+"I finished reviewing your project README.",safe
+"We should practice subnetting before the exam.",safe
+"Check the shared folder for the final presentation slides.",safe

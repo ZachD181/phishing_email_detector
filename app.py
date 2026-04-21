@@ -27,6 +27,34 @@ if st.button("Analyze Email"):
         classes = model.classes_
         confidence = dict(zip(classes, probabilities))
 
+        phishing_score = confidence.get("phishing", 0)
+        safe_score = confidence.get("safe", 0)
+
+        st.subheader("Prediction")
+
+        if prediction == "phishing":
+            st.error("This email appears to be phishing.")
+        else:
+            st.success("This email appears to be safe.")
+
+        st.subheader("Confidence Scores")
+        st.write(f"**Phishing:** {phishing_score:.4f}")
+        st.write(f"**Safe:** {safe_score:.4f}")
+
+        st.progress(float(phishing_score))
+
+        st.subheader("Quick Interpretation")
+        if phishing_score > 0.80:
+            st.write("High phishing likelihood.")
+        elif phishing_score > 0.60:
+            st.write("Moderate phishing likelihood.")
+        else:
+            st.write("Low phishing likelihood.")
+        prediction = model.predict([email_text])[0]
+        probabilities = model.predict_proba([email_text])[0]
+        classes = model.classes_
+        confidence = dict(zip(classes, probabilities))
+
         st.subheader("Prediction")
         st.write(prediction.capitalize())
 
