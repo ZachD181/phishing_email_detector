@@ -19,7 +19,6 @@ if not MODEL_PATH.exists():
 
 model = joblib.load(MODEL_PATH)
 
-email_text = st.text_area("Email text", height=180)
 
 
 suspicious_keywords = [
